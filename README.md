@@ -74,6 +74,7 @@ This dashboard addresses a scenario for a water utility provider needing insight
 ---
 
 ## 🎥 Project Demo
+https://github.com/ahmadyase1234/Water-analysis-Dashboard-/blob/main/water_analysis_dashboard.gif
 
 **[Watch the Video Demo](https://github.com/ahmadyase1234/Water-analysis-Dashboard-/blob/main/water%20analysis%20Dashboard.mp4?raw=true)**
 
