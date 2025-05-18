@@ -4,7 +4,10 @@
 **📥 [Download the PBIX File](https://github.com/ahmadyase1234/Water-analysis-Dashboard-/raw/main/water-dashboard.pbix)**  
 
 ---
+## 📈 Dashboard Preview
 
+<img src="https://github.com/ahmadyase1234/Water-analysis-Dashboard-/blob/main/Water-Dashboard.png?raw=true" width="1000">
+----
 ## 📝 Introduction
 
 <details>
@@ -67,9 +70,6 @@ This dashboard addresses a scenario for a water utility provider needing insight
 
 ---
 
-## 📈 Dashboard Preview
-
-<img src="https://github.com/ahmadyase1234/Water-analysis-Dashboard-/blob/main/Water-Dashboard.png?raw=true" width="1000">
 
 ---
 
