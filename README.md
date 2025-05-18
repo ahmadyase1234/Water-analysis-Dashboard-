@@ -1,12 +1,7 @@
 # 💧 Water Dashboard – Power BI Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the PBIX File](#)**  
-**🌐 [View Interactive Dashboard](#)**
-
-<div align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/water-banner.png?raw=true" alt="Water Dashboard Banner" width="1000" height="500">
-</div>
+**📥 [Download the PBIX File](https://github.com/ahmadyase1234/Water-analysis-Dashboard-/raw/main/water-dashboard.pbix)**  
 
 ---
 
